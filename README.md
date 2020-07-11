@@ -1,4 +1,4 @@
-# Dataquest guided project
+# Dataquest guided projects
 
 My online repository for the guided projects completed in Dataquest's Data Science path.
 
