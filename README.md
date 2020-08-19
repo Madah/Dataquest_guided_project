@@ -6,3 +6,4 @@ My online repository for the guided projects completed in Dataquest's Data Scien
 2) Exploring Hacker News Posts
 3) Exploring Ebay Car Sales Data
 4) Visualizing Earnings Based On College Majors
+5) Visualizing The Gender Gap In College Degrees
